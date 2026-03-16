@@ -1,4 +1,4 @@
-# ConvertAllLocal
+# ConvertAllLocal - FR
 
 ConvertAllLocal est une application locale qui permet de convertir tous les formats vidéo, image et icônes les plus utilisés dans le web et le développement d'applications, sans téléchargement ni envoi de fichiers vers des services externes.
 
