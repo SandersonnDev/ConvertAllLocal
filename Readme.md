@@ -1,4 +1,5 @@
 # ConvertAllLocal - FR
+[EN_Readme.md](https://github.com/SandersonnDev/ConvertAllLocal/blob/b9ca7b7e0815930338f5391ad77236c5f6d4a2dc/EN_Readme.md)
 
 ConvertAllLocal est une application locale qui permet de convertir tous les formats vidéo, image et icônes les plus utilisés dans le web et le développement d'applications, sans téléchargement ni envoi de fichiers vers des services externes.
 
